@@ -1,4 +1,4 @@
-import React, { useContext, useState, useEffect } from 'react';
+import { useContext, useState, useEffect } from 'react';
 import PedidoContext from '../../context/pedidos/PedidoContext';
 
 const ProductoResumen = ({producto}) => {

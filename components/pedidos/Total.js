@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import PedidoContext from '../../context/pedidos/PedidoContext';
 
 const Total = () => {

@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react';
+import { useReducer } from 'react';
 import PedidoContext from './PedidoContext';
 import PedidoReducer from './PedidoReducer';
 

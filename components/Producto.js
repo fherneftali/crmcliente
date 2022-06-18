@@ -1,4 +1,3 @@
-import React from 'react';
 import Swal from 'sweetalert2';
 import { gql, useMutation } from '@apollo/client';
 import Router from 'next/router';
@@ -108,5 +107,5 @@ const Producto = ({producto}) => {
         </tr>
     );
 }
- 
+
 export default Producto;

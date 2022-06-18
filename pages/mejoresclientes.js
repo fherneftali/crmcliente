@@ -1,4 +1,4 @@
-import React, { useEffect} from 'react';
+import { useEffect } from 'react';
 import Layout from '../components/Layout';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import { gql, useQuery } from '@apollo/client';

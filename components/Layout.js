@@ -1,4 +1,3 @@
-import React from 'react';
 import Head from 'next/head';
 import Sidebar from '../components/Sidebar';
 import Header from '../components/Header';

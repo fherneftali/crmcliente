@@ -1,4 +1,3 @@
-import React from 'react';
 import Swal from 'sweetalert2';
 import { gql, useMutation } from '@apollo/client';
 import Router from 'next/router';
@@ -115,5 +114,5 @@ const Cliente = ({cliente}) => {
         </tr>
     );
 }
- 
+
 export default Cliente;
