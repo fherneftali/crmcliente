@@ -19,7 +19,6 @@
     "react-dom": "18.1.0",
     "react-select": "^5.3.2",
     "readable-stream": "^3.6.0",
-    "uuid": "^8.3.2",
     "yup": "^0.32.11"
   },
   "devDependencies": {
