@@ -23,6 +23,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6"
   }
