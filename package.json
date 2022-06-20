@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "react-scripts build",
+    "build": " CI= npm run build",
     "start": "next start"
   },
   "dependencies": {
